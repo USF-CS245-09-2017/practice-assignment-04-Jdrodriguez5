@@ -1,5 +1,4 @@
 
-
 public class SortingFactory {
 
 	public final String defaultAlgorithm = "SelectionSort";  // If an improper algorithm name is given, which should be used?
